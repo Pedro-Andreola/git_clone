@@ -1,12 +1,12 @@
 body{
-    background-color:azure;  
-    color: rgb(241, 0, 149);
+    background-color:rgb(174, 170, 212);  
+    color: rgb(32, 46, 180);
 }
 
 .btn{
     border: 2px solid black;
     border-radius: 5px;
-    background-color: yellowgreen; 
+    background-color: rgb(70, 56, 148); 
     min-width: 100px;   
 }
 
