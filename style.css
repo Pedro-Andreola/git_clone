@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    color: rgb(241, 0, 149);
+}
+
+.btn{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: yellowgreen; 
+    min-width: 100px;   
+}
+
+.btn:hover{
+    min-width: 1000px;
+}
+
+#res{
+    font-size: 10rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: cadetblue;
+}
