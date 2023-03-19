@@ -1,5 +1,5 @@
 function mais(){
     let resposta = document.getElementById('res')
-    let num = 12
+    let num = 7
     resposta.innerHTML = (num)
 }
